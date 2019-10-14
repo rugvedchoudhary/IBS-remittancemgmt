@@ -7,6 +7,7 @@ public class Array {
 		int sum = a + b;
 		System.out.println("Sum is :" + sum);
 		System.out.println("Hello");
+		System.out.println("Hi this is rugved");
 	}
 
 }
